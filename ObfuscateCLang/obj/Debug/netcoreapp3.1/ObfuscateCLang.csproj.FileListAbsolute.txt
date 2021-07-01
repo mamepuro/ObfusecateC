@@ -1,0 +1,13 @@
+C:\Users\ayata\source\repos\ObfuscateCLang\bin\Debug\netcoreapp3.1\ObfuscateCLang.exe
+C:\Users\ayata\source\repos\ObfuscateCLang\bin\Debug\netcoreapp3.1\ObfuscateCLang.deps.json
+C:\Users\ayata\source\repos\ObfuscateCLang\bin\Debug\netcoreapp3.1\ObfuscateCLang.runtimeconfig.json
+C:\Users\ayata\source\repos\ObfuscateCLang\bin\Debug\netcoreapp3.1\ObfuscateCLang.runtimeconfig.dev.json
+C:\Users\ayata\source\repos\ObfuscateCLang\bin\Debug\netcoreapp3.1\ObfuscateCLang.dll
+C:\Users\ayata\source\repos\ObfuscateCLang\bin\Debug\netcoreapp3.1\ObfuscateCLang.pdb
+C:\Users\ayata\source\repos\ObfuscateCLang\obj\Debug\netcoreapp3.1\ObfuscateCLang.csprojAssemblyReference.cache
+C:\Users\ayata\source\repos\ObfuscateCLang\obj\Debug\netcoreapp3.1\ObfuscateCLang.AssemblyInfoInputs.cache
+C:\Users\ayata\source\repos\ObfuscateCLang\obj\Debug\netcoreapp3.1\ObfuscateCLang.AssemblyInfo.cs
+C:\Users\ayata\source\repos\ObfuscateCLang\obj\Debug\netcoreapp3.1\ObfuscateCLang.csproj.CoreCompileInputs.cache
+C:\Users\ayata\source\repos\ObfuscateCLang\obj\Debug\netcoreapp3.1\ObfuscateCLang.dll
+C:\Users\ayata\source\repos\ObfuscateCLang\obj\Debug\netcoreapp3.1\ObfuscateCLang.pdb
+C:\Users\ayata\source\repos\ObfuscateCLang\obj\Debug\netcoreapp3.1\ObfuscateCLang.genruntimeconfig.cache
